@@ -27,5 +27,5 @@
         "test",
         "wdio.conf.ts",
         "features"
-    ]
+, "page-objects"    ]
 }
